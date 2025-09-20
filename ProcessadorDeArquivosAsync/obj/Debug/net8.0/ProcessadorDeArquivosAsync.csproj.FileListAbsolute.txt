@@ -1,0 +1,14 @@
+E:\FACULDADE\C#\ProcessadorDeArquivosAsync\ProcessadorDeArquivosAsync\bin\Debug\net8.0\ProcessadorDeArquivosAsync.exe
+E:\FACULDADE\C#\ProcessadorDeArquivosAsync\ProcessadorDeArquivosAsync\bin\Debug\net8.0\ProcessadorDeArquivosAsync.deps.json
+E:\FACULDADE\C#\ProcessadorDeArquivosAsync\ProcessadorDeArquivosAsync\bin\Debug\net8.0\ProcessadorDeArquivosAsync.runtimeconfig.json
+E:\FACULDADE\C#\ProcessadorDeArquivosAsync\ProcessadorDeArquivosAsync\bin\Debug\net8.0\ProcessadorDeArquivosAsync.dll
+E:\FACULDADE\C#\ProcessadorDeArquivosAsync\ProcessadorDeArquivosAsync\bin\Debug\net8.0\ProcessadorDeArquivosAsync.pdb
+E:\FACULDADE\C#\ProcessadorDeArquivosAsync\ProcessadorDeArquivosAsync\obj\Debug\net8.0\ProcessadorDeArquivosAsync.GeneratedMSBuildEditorConfig.editorconfig
+E:\FACULDADE\C#\ProcessadorDeArquivosAsync\ProcessadorDeArquivosAsync\obj\Debug\net8.0\ProcessadorDeArquivosAsync.AssemblyInfoInputs.cache
+E:\FACULDADE\C#\ProcessadorDeArquivosAsync\ProcessadorDeArquivosAsync\obj\Debug\net8.0\ProcessadorDeArquivosAsync.AssemblyInfo.cs
+E:\FACULDADE\C#\ProcessadorDeArquivosAsync\ProcessadorDeArquivosAsync\obj\Debug\net8.0\ProcessadorDeArquivosAsync.csproj.CoreCompileInputs.cache
+E:\FACULDADE\C#\ProcessadorDeArquivosAsync\ProcessadorDeArquivosAsync\obj\Debug\net8.0\ProcessadorDeArquivosAsync.dll
+E:\FACULDADE\C#\ProcessadorDeArquivosAsync\ProcessadorDeArquivosAsync\obj\Debug\net8.0\refint\ProcessadorDeArquivosAsync.dll
+E:\FACULDADE\C#\ProcessadorDeArquivosAsync\ProcessadorDeArquivosAsync\obj\Debug\net8.0\ProcessadorDeArquivosAsync.pdb
+E:\FACULDADE\C#\ProcessadorDeArquivosAsync\ProcessadorDeArquivosAsync\obj\Debug\net8.0\ProcessadorDeArquivosAsync.genruntimeconfig.cache
+E:\FACULDADE\C#\ProcessadorDeArquivosAsync\ProcessadorDeArquivosAsync\obj\Debug\net8.0\ref\ProcessadorDeArquivosAsync.dll
