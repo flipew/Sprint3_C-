@@ -20,8 +20,8 @@ Entrada de Diretório: Solicita ao usuário o caminho de uma pasta e valida sua 
  --- Geração de Relatório: Cria uma pasta export e salva um relatório final chamado relatorio.txt com o resultado da contagem de linhas e palavras para cada arquivo processa
 
 
-Cassio Eid Yonetsuka RM: 99678
-Filipe Prado Menezes RM: 98765
-Gabriel Gomes Catanzarro RM: 93445
-Henrique Canali Cuzato RM: 551326
-Lucas Gomes Alcatara RM: 98766
+ -- Cassio Eid Yonetsuka RM: 99678
+ -- Filipe Prado Menezes RM: 98765
+ -- Gabriel Gomes Catanzarro RM: 93445
+ -- Henrique Canali Cuzato RM: 551326
+ -- Lucas Gomes Alcatara RM: 98766
